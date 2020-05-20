@@ -23,10 +23,6 @@ When the individual behaviors of social insects become so tightly syncronized th
 The social insects accomplish this feat through blind mechanisms evolved through natural selection - [chemical messengers]() passed between individuals or left in the environment, or [elaborate dances](). 
 In the absence of chemical stimuli to , we must rely on technologies of our own devising. One promising 
 
-## About the Investigators
-<img align="left" src="https://user-images.githubusercontent.com/32546509/77238966-de37cd00-6bab-11ea-9b9b-e49783f8300a.jpg">
-Patrick Campbell holds a B.S. in Biology from Palm Beach Atlantic University, an M.A. in Philosophy from Northern Illinois University, and a M.S. in Public Policy and Mangement from Carnegie Mellon University. His primary research interests focus on how online crowdsourcing platforms may be used to support collective action-style solutions to high-complexity problems like climate change. [copy bio from university website]. 
-
 ## Goals and objectives
 The goal of the exercise is to achieve a sustainable colony. Sustainability is meant to serve as a sort of value-neutral framework for guiding the activities of our users without imposing too narrow restrictions on the precise means (values, beliefs, policies) they employ to get there. 
 
@@ -76,6 +72,12 @@ This investigation builds on previous studies into the social production potenti
 
 1. Charles Schweik
 2. 
+
+## About the Investigators
+<img align="left" src="https://user-images.githubusercontent.com/32546509/77238966-de37cd00-6bab-11ea-9b9b-e49783f8300a.jpg">
+Patrick Campbell holds a B.S. in Biology from Palm Beach Atlantic University, an M.A. in Philosophy from Northern Illinois University, and a M.S. in Public Policy and Mangement from Carnegie Mellon University. Prior to enrolling at CMU, I worked for approximately eight years in a wide variety of positions in the areas of environmental science and conservation. My early career was devoted primarily to addressing water quality issues in my home state of Florida, where I worked as an environmental consultant in support of several projects managed by the local Water Management Districts. During this time, I gained a lot of valuable experience both in water quality and other field sampling techniques as well as in the broader policy environment surrounding the local management of natural resources.
+
+His primary research interests focus on how online crowdsourcing platforms may be used to support collective action-style solutions to high-complexity problems like climate change. 
 
 ## Inspiration
 
