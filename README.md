@@ -1,11 +1,22 @@
 # Welcome to the Antfarm Project
 The Antfarm Project is an open source investigation into the social production practices of human beings. 
 
-We leverage the vast resources and infrastructure of GitHub to create a virtual colony of interconnected units - individual GitHub accounts, which we call "social production pods" - which function as more than  the sum of its parts. We aim to test the [social production capacity] limits of the social production model
+We leverage the vast resources and infrastructure of GitHub to create a virtual colony of interconnected units - individual GitHub accounts, which we call "social production pods" - which come together to function as more than the sum of its parts. 
 
 [picture]
 
+This investigation builds on previous studies into the social production potential of digital commons [bibliography]() and attempts to successfully utilize . 
+
+## Introduction
+When the individual behaviors of social insects become so tightly syncronized that the collective begins to exhibit seemingly intelligent behavior as an emergent property, the colony is referred to as a superorganism [1](https://www.jstor.org/stable/pdf/27856005.pdf?seq=1). Some have speculated that in order for human beings to gain power over [many of the biggest problems that threaten us today] collective action problems, they too must learn to coordinate their behavior in a similarly harmonious fashion. 
+
+[picture]
+
+The social insects accomplish this feat through blind mechanisms evolved through natural selection - [chemical messengers]() passed between individuals or left in the environment, or [elaborate dances](). 
+In the absence of chemical stimuli to , we must rely on technologies of our own devising. One promising 
+
 ## About the Investigators
+[insert picture] Patrick Campbell is a [copy bio from university website]. 
 
 
 ## Elements of the experiment
@@ -40,5 +51,11 @@ These projects and their associated project files serve as a living laboratory f
 6. Platform Cooperativism, Trebor Scholz
 7. 
 
+## Related research
+1. Charles Schweik
+2. 
+
 
 The Antfarm Project is the flagship project of [GoodLabs](), a a hub for commons-based peer production1 providing creators and contributors with a community, personalized online workspaces, and data-driven insights to help them better understand and improve upon their operations. for more information, visit [link]().
+
+For more information on the thinking that inspired this project, check out our [White Paper]().
