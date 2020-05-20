@@ -3,6 +3,12 @@ The Antfarm Project is an open source investigation into the social production p
 
 [picture]
 
+We leverage the vast resources and infrastructure of GitHub to create a virtual colony of interconnected units - individual GitHub accounts, which we call "social production pods" - in order to gain a better understanding of how social production happens at both the individual and collective levels. 
+
+Rather than being an idle experiment, we aim to acquire this understanding through the practice of social production itself. Participants operate under the mandate that they are to work together to create the sort of world they wish to live in. This means taking on some of the world's biggest challenges, including climate change, systemic injustice and inequity, and extreme poverty. In pursuing this goal, we aim to build a community that functions as more than the sum of its parts and can provide a model of what the society of the future might become. 
+
+**Some useful definitions**
+
 > “Commons-based peer production is a term coined by Harvard Law School professor Yochai Benkler. It describes a new model of socioeconomic production in which large numbers of people work cooperatively (usually over the Internet). Commons-based projects generally have less rigid hierarchical structures than those under more traditional business models. Often—but not always—commons-based projects are designed without a need for financial compensation for contributors. 
 The term is often used interchangeably with the term social production.” [(Peer-Production. Wikipedia)](https://wiki.p2pfoundation.net/Peer_Production.)
 >
@@ -10,10 +16,6 @@ The term is often used interchangeably with the term social production.” [(Pee
 > In economic terms, social production involves people at the community level relying on them collectively to identify, exploit and increase local capital as assets in the development process.
 > From a social perspective, social production is a process (and product) that identifies exploits and further develops relationships within the community on an equitable basis.
 > From a human rights perspective, social production means collective action to satisfy human needs and, thus, realize human rights consistent with prevailing concepts of human dignity and fairness.” [(Social Produection of Habitat. Wikipedia)](https://en.wikipedia.org/wiki/Social_production_of_habitat)
-
-We leverage the vast resources and infrastructure of GitHub to create a virtual colony of interconnected units - individual GitHub accounts, which we call "social production pods" - in order to gain a better understanding of how social production happens at both the individual and collective levels. 
-
-Rather than being an idle experiment, we aim to acquire this understanding through the practice of social production itself. Participants operate under the mandate that they are to work together to create the sort of world they wish to live in. This means taking on some of the world's biggest challenges, including climate change, systemic injustice and inequity, and extreme poverty. In pursuing this goal, we aim to build a community that functions as more than the sum of its parts and can provide a model of what the society of the future might become. 
 
 ## Introduction
 When the individual behaviors of social insects become so tightly syncronized that the collective begins to exhibit seemingly intelligent behavior as an emergent property, the colony is referred to as a superorganism [1](https://www.jstor.org/stable/pdf/27856005.pdf?seq=1). Some have speculated that in order for human beings to gain power over [many of the biggest problems that threaten us today] collective action problems, they too must learn to coordinate their behavior in a similarly harmonious fashion. 
