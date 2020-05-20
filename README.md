@@ -38,7 +38,9 @@ By participating in this study, you assume the role of both subject and investig
 
 In your role as investigator, you glean insights from your local network (comprising your own projects and those you contribute to) and feed them back into the [main repository](github.com/antfarm-io/antfarm-project) to be leveraged toward the improvement of the colony (i.e. the main platform, antfarm-io.).
 
-[diagram]
+<p align="center">
+<img width="85%" height="85%" src="https://user-images.githubusercontent.com/65630335/82494300-5b51c680-9ab7-11ea-86a2-28be4d14c267.JPG">
+</p>
 
 1. Connect your GitHub account to this one, becoming part of the colony.
 
