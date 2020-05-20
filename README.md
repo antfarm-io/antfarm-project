@@ -1,9 +1,11 @@
 # Welcome to the Antfarm Project
 The Antfarm Project is an open source investigation into the social production practices of human beings. 
 
-We leverage the vast resources and infrastructure of GitHub to create a virtual colony of interconnected units - individual GitHub accounts, which we call "social production pods" - in order to gain a better understanding of how social production happens at both the individual and collective levels. 
+We leverage the vast resources and infrastructure of GitHub to create a virtual colony of interconnected units—individual GitHub accounts, which we call "social production pods"—in order to gain a better understanding of how social production happens at both the individual and collective levels. 
 
-Rather than being an idle experiment, we aim to acquire this understanding through the practice of social production itself. Participants operate under the mandate that they are to work together to create the sort of world they wish to live in. This means taking on some of the world's biggest challenges, including climate change, systemic injustice and inequity, and extreme poverty. In pursuing this goal, we aim to build a community that functions as more than the sum of its parts and can provide a model of what the society of the future might become. 
+Rather than being an idle experiment, we aim to acquire this understanding through the practice of social production itself. Participants operate under the mandate of creating a [sustainable society](https://www.britannica.com/science/sustainability#ref1225913)—i.e., one "in which the environmental and economic actions taken by present persons do not diminish the opportunities of future persons to enjoy similar levels of wealth, utility, or welfare." This means taking on some of the world's biggest challenges, including climate change, systemic injustice and inequity, and extreme poverty. 
+
+In pursuing this goal, we aim to build a community that functions as more than the sum of its parts and can provide a model of what the society of the future might become. 
 
 **Some useful definitions**
 
@@ -11,17 +13,31 @@ Rather than being an idle experiment, we aim to acquire this understanding throu
 The term is often used interchangeably with the term social production.” [(Peer-Production. Wikipedia)](https://wiki.p2pfoundation.net/Peer_Production.)
 >
 > “Social production of habitat is an international term used to convey the process and product arising from the experience of people in a community collectively determining the conditions of their own habitat (dwelling place and living environment). Social production is found when people take the initiative to pose solutions to the problems arising from their living conditions. Partners in social production can be informal groups or local organizations, and/or other actors external to the community, such as NGOs, donors, private sector enterprises, cooperatives[1], professional associations, academics or government institutions, or any combination of these. Social production is usually characterized by a large measure of voluntary action and people’s agency.
+>
 > In economic terms, social production involves people at the community level relying on them collectively to identify, exploit and increase local capital as assets in the development process.
+>
 > From a social perspective, social production is a process (and product) that identifies exploits and further develops relationships within the community on an equitable basis.
+>
 > From a human rights perspective, social production means collective action to satisfy human needs and, thus, realize human rights consistent with prevailing concepts of human dignity and fairness.” [(Social Production of Habitat. Wikipedia)](https://en.wikipedia.org/wiki/Social_production_of_habitat)
 
 ## Introduction
-When the individual behaviors of social insects become so tightly syncronized that the collective begins to exhibit seemingly intelligent behavior as an emergent property, the colony is referred to as a superorganism [1](https://www.jstor.org/stable/pdf/27856005.pdf?seq=1). Some have speculated that in order for human beings to gain power over many of the biggest problems that threaten us today - including climate change, systemic injustice and inequity, and pandemics - they too must learn to coordinate their behavior in a similarly harmonious fashion. These problems were created by the wrong sort of collective action, and must be remedied by replacing it with the right sort.
+When the individual behaviors of social insects become so tightly synchronized that the collective begins to exhibit seemingly intelligent or purposeful behavior as an emergent property, the colony is referred to as a superorganism [(Superorganism. Wikipedia.)](https://en.wikipedia.org/wiki/Superorganism). Some have speculated that in order for human beings to gain power over the biggest problems that threaten us today—including climate change, systemic injustice and inequity, and pandemics—they too must learn to coordinate their behavior in a similarly harmonious fashion. The rationale behind this suggestion is that these problems were created by collective action, and so therefore must be remedied by replacing it with the right sort.
 
-[picture]
+<p align="center">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/82508408-f0ae8400-9ad2-11ea-8736-398a52694776.jpg">
+</p>
+(Photo by [Alexander Wild]()https://www.newscientist.com/article/mg23130900-500-get-inside-the-collective-mind-of-a-genius-superorganism/)
 
-The social insects accomplish this feat through blind mechanisms evolved through natural selection - [chemical messengers]() passed between individuals or left in the environment, or [elaborate dances](). 
+The social insects accomplish this feat through blind mechanisms evolved through natural selection—[chemical messengers]() passed between individuals or left in the environment, or [elaborate dances](). 
+
 In the absence of chemical stimuli to , we must rely on technologies of our own devising. One promising 
+
+**Some useful definitions**
+> "A superorganism \[...] is a group of synergetically interacting organisms of the same species. The term /[...] is used most often to describe a social unit of eusocial animals, where division of labour is highly specialised and where individuals are not able to survive by themselves for extended periods. \[...] A superorganism can be defined as "a collection of agents which can act in concert to produce phenomena governed by the collective", phenomena being any activity "the hive wants" such as ants collecting food and avoiding predators, or bees choosing a new nest site. Superorganisms tend to exhibit homeostasis, power law scaling, persistent disequilibrium and emergent behaviours." [(Superorganism. Wikipedia.)](https://en.wikipedia.org/wiki/Superorganism)
+
+> "Collective action refers to action taken together by a group of people whose goal is to enhance their status and achieve a common objective." [(Collective Action. Wikipedia)](https://en.wikipedia.org/wiki/Collective_action)
+
+> "A collective action problem or social dilemma is a situation in which all individuals would be better off cooperating but fail to do so because of conflicting interests between individuals that discourage joint action. Problems arise when too many group members choose to pursue individual profit and immediate satisfaction rather than behave in the group's best long-term interests. \[...] The collective action problem can be understood through the analysis of game theory and the free-rider problem, which results from the provision of public goods. Additionally, the collective problem can be applied to numerous public policy concerns that countries across the world currently face." [(Collective Action Problem. Wikipedia.)]https://en.wikipedia.org/wiki/Collective_action_problem)
 
 ## Goals and objectives
 The goal of the exercise is to achieve a sustainable colony. Sustainability is meant to serve as a sort of value-neutral framework for guiding the activities of our users without imposing too narrow restrictions on the precise means (values, beliefs, policies) they employ to get there. 
@@ -61,7 +77,7 @@ These projects and their associated project files serve as a living laboratory f
 3. Data generated by your activity on these projects is collected and stored in the Insights tab of the Antfarm-io home account. 
 
 ## Rules
-We don't dictate 
+We don't dictate ...
 
 However, we do encourage our participants to consider various factors and require them to document their decisions regarding these factors. These articles of incorporation will be filed with main 
 
@@ -94,6 +110,6 @@ His primary research interests focus on how online crowdsourcing platforms may b
 
 
 
-The Antfarm Project is the flagship project of [GoodLabs](), a a hub for commons-based peer production1 providing creators and contributors with a community, personalized online workspaces, and data-driven insights to help them better understand and improve upon their operations. for more information, visit [link]().
+The Antfarm Project is the flagship project of [GoodLabs](github.com/jaxgoodlabs/), a hub for commons-based peer production1 providing creators and contributors with a community, personalized online workspaces, and data-driven insights to help them better understand and improve upon their operations. for more information, visit [link]().
 
 For more information on the thinking that inspired this project, check out our [White Paper]().
