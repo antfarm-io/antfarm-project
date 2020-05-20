@@ -1,6 +1,8 @@
 # Welcome to the Antfarm Project
 The Antfarm Project is an open source investigation into the social production practices of human beings. 
 
+[picture]
+
 > “Commons-based peer production is a term coined by Harvard Law School professor Yochai Benkler. It describes a new model of socioeconomic production in which large numbers of people work cooperatively (usually over the Internet). Commons-based projects generally have less rigid hierarchical structures than those under more traditional business models. Often—but not always—commons-based projects are designed without a need for financial compensation for contributors. 
 The term is often used interchangeably with the term social production.” [(Peer-Production. Wikipedia)](https://wiki.p2pfoundation.net/Peer_Production.)
 >
@@ -9,13 +11,9 @@ The term is often used interchangeably with the term social production.” [(Pee
 > From a social perspective, social production is a process (and product) that identifies exploits and further develops relationships within the community on an equitable basis.
 > From a human rights perspective, social production means collective action to satisfy human needs and, thus, realize human rights consistent with prevailing concepts of human dignity and fairness.” [(Social Produection of Habitat. Wikipedia)](https://en.wikipedia.org/wiki/Social_production_of_habitat)
 
-We leverage the vast resources and infrastructure of GitHub to create a virtual colony of interconnected units - individual GitHub accounts, which we call "social production pods" - in order to both practice and gain a better understanding of how social production happens at both the individual as well as collective level. 
+We leverage the vast resources and infrastructure of GitHub to create a virtual colony of interconnected units - individual GitHub accounts, which we call "social production pods" - in order to gain a better understanding of how social production happens at both the individual and collective levels. 
 
-Rather than being an idle experiment, we aim to acquire this understanding through the practice of social production itself. Participants operate under the mandate/instruction that they are to work together to create the sort of world they wish to live in. This means taking on some of the world's biggest challenges, including climate change, systemic injustice and inequity, and extreme poverty. 
-
-In pursuing this goal, we aim to build a community that functions as more than the sum of its parts and can provide a model of what the society of the future might become. 
-
-[picture]
+Rather than being an idle experiment, we aim to acquire this understanding through the practice of social production itself. Participants operate under the mandate that they are to work together to create the sort of world they wish to live in. This means taking on some of the world's biggest challenges, including climate change, systemic injustice and inequity, and extreme poverty. In pursuing this goal, we aim to build a community that functions as more than the sum of its parts and can provide a model of what the society of the future might become. 
 
 ## Introduction
 When the individual behaviors of social insects become so tightly syncronized that the collective begins to exhibit seemingly intelligent behavior as an emergent property, the colony is referred to as a superorganism [1](https://www.jstor.org/stable/pdf/27856005.pdf?seq=1). Some have speculated that in order for human beings to gain power over [many of the biggest problems that threaten us today] collective action problems, they too must learn to coordinate their behavior in a similarly harmonious fashion. 
@@ -30,12 +28,13 @@ In the absence of chemical stimuli to , we must rely on technologies of our own 
 
 
 ## Elements of the experiment
-1. Antfarm.io - The main platform through which we conduct our investigation. Also referred to as the colony.
-2. Antfarm-project repository - This repository represents the colony itself, which is cooperatively maintained by all participants through the submission of pull requests. 
-2. 
+1. Antfarm.io - The main platform through which we conduct our investigation. Also referred to as the colony. 
+2. Antfarm-project repository - This repository represents the colony itself, which is cooperatively maintained by all participants through the submission of pull requests. This project consists primarily of governance tools and documentation. 
+- 
+3. 
 
 ## How it works
-By participating, you assume the role of both subject and investigator. In your role as subject, you agree to host your social production projects on the [Antfarm-io home account](github.com/antfarm-io/) and contribute to the maintenance of the colony by submitting pull requests on the Antfarm-project repository.
+By participating in this study, you assume the role of both subject and investigator. In your role as subject, you agree to host your social production projects on the [Antfarm-io home account](github.com/antfarm-io/) and contribute to the maintenance of the colony by submitting pull requests on the Antfarm-project repository.
 
 In your role as investigator, you glean insights from your local network (comprising your own projects and those you contribute to) and feed them back into the [main repository](github.com/antfarm-io/antfarm-project) to be leveraged toward the improvement of the colony (i.e. the main platform, antfarm-io.).
 
@@ -51,6 +50,12 @@ These projects and their associated project files serve as a living laboratory f
 
 3. Data generated by your activity on these projects is collected and stored in the Insights tab of the Antfarm-io home account. 
 
+## Rules
+We don't dictate 
+
+However, we do encourage our participants to consider various factors and require them to document their decisions regarding these factors. These articles of incorporation will be filed with main 
+
+(Alternatively, we could take a no holds barred approach and derive these patterns from the insights generated by them. But since there is an explicit goal to this activity, it makes sense that we should approach this intentionally and incorporate best practices based on the research to date.)
 
 ## Related research
 This investigation builds on previous studies into the social production potential of digital commons [bibliography]() and attempts to successfully utilize . 
