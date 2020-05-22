@@ -2,6 +2,12 @@
 The Antfarm Project is an open source investigation into the social production practices of human beings. 
 
 <p align="center">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/82619095-fffd0280-9ba2-11ea-9e0b-4944587469f7.jpg">
+</p>
+
+*Photo from [The New York Times](https://www.nytimes.com/2017/05/11/arts/design/please-smell-the-art-anicka-yi-will-see-that-you-do.html)*
+
+<p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/82618581-76006a00-9ba1-11ea-840a-d59a1725d5f9.jpg">
 </p>
 
