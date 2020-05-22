@@ -1,11 +1,11 @@
-# Welcome to the Antfarm Project
+# Welcome to Antfarm-io
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/82619095-fffd0280-9ba2-11ea-9e0b-4944587469f7.jpg">
 </p>
 
-*Photo from [The New York Times](https://www.nytimes.com/2017/05/11/arts/design/please-smell-the-art-anicka-yi-will-see-that-you-do.html)*
+*“Lifestyle Wars” (2017), in the Anicka Yi exhibition at the Guggenheim Museum. This piece houses an ant farm within an installation of aluminum racks, computer hardware and LED lights. Credit: Byron Smith for [The New York Times](https://www.nytimes.com/2017/05/11/arts/design/please-smell-the-art-anicka-yi-will-see-that-you-do.html)*
 
-The Antfarm Project is an open source investigation into the social production practices of human beings. 
+Antfarm-io is an open source investigation into the social production practices of human beings. 
 
 We leverage the vast resources and infrastructure of GitHub to create a virtual colony of interconnected units—individual GitHub accounts, which we call "social production pods"—in order to gain a better understanding of how social production happens at both the individual and collective levels. 
 
