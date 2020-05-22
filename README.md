@@ -4,9 +4,8 @@ The Antfarm Project is an open source investigation into the social production p
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/82618581-76006a00-9ba1-11ea-840a-d59a1725d5f9.jpg">
 </p>
-<p align="center">
+
 Photo from [Evviva Sciences](http://www.evvivasciences.com/product/ant-cosmos-ant-habitat/)
-</p>
 
 We leverage the vast resources and infrastructure of GitHub to create a virtual colony of interconnected units—individual GitHub accounts, which we call "social production pods"—in order to gain a better understanding of how social production happens at both the individual and collective levels. 
 
@@ -33,9 +32,8 @@ When the individual behaviors of social insects become so tightly synchronized t
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/82508408-f0ae8400-9ad2-11ea-8736-398a52694776.jpg">
 </p>
-<p align="center">
+
 Photo by [Alexander Wild](https://www.newscientist.com/article/mg23130900-500-get-inside-the-collective-mind-of-a-genius-superorganism/)
-</p>
 
 The social insects accomplish this feat through blind mechanisms evolved through natural selection—[chemical messengers]() passed between individuals or left in the environment, or [elaborate dances](). 
 
