@@ -2,9 +2,9 @@
 The Antfarm Project is an open source investigation into the social production practices of human beings. 
 
 <p align="center">
-<img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/82618101-148bcb80-9ba0-11ea-9e9b-8062b28e4134.jpg">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/82618360-de9b1700-9ba0-11ea-8b58-a0dead7c5be6.jpg">
 </p>
-(Photo from [Ants Alive](https://www.antsalive.com/buy-live-ants.htm)
+(Photo from [Evviva Sciences](http://www.evvivasciences.com/product/ant-cosmos-ant-habitat/))
 
 We leverage the vast resources and infrastructure of GitHub to create a virtual colony of interconnected units—individual GitHub accounts, which we call "social production pods"—in order to gain a better understanding of how social production happens at both the individual and collective levels. 
 
