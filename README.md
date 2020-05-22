@@ -2,7 +2,7 @@
 The Antfarm Project is an open source investigation into the social production practices of human beings. 
 
 <p align="center">
-<img width="80%" height="80%" src="https://user-images.githubusercontent.com/65630335/82618360-de9b1700-9ba0-11ea-8b58-a0dead7c5be6.jpg">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/65630335/82618581-76006a00-9ba1-11ea-840a-d59a1725d5f9.jpg">
 </p>
 (Photo from [Evviva Sciences)](http://www.evvivasciences.com/product/ant-cosmos-ant-habitat/)
 <br />
