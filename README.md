@@ -3,9 +3,9 @@ The Antfarm Project is an open source investigation into the social production p
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/82618581-76006a00-9ba1-11ea-840a-d59a1725d5f9.jpg">
+Photo from [Evviva Sciences](http://www.evvivasciences.com/product/ant-cosmos-ant-habitat/)
 </p>
-> Photo from [Evviva Sciences](http://www.evvivasciences.com/product/ant-cosmos-ant-habitat/)
-<br />
+
 We leverage the vast resources and infrastructure of GitHub to create a virtual colony of interconnected units—individual GitHub accounts, which we call "social production pods"—in order to gain a better understanding of how social production happens at both the individual and collective levels. 
 
 Rather than being an idle experiment, we aim to acquire this understanding through the practice of social production itself. Participants operate under the mandate of creating a [sustainable society](https://www.britannica.com/science/sustainability#ref1225913)—i.e., one "in which the environmental and economic actions taken by present persons do not diminish the opportunities of future persons to enjoy similar levels of wealth, utility, or welfare." This means taking on some of the world's biggest challenges, including climate change, systemic injustice and inequity, and extreme poverty. 
@@ -30,9 +30,9 @@ When the individual behaviors of social insects become so tightly synchronized t
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/82508408-f0ae8400-9ad2-11ea-8736-398a52694776.jpg">
-</p>
 > Photo by [Alexander Wild](https://www.newscientist.com/article/mg23130900-500-get-inside-the-collective-mind-of-a-genius-superorganism/)
-<br />
+</p>
+
 The social insects accomplish this feat through blind mechanisms evolved through natural selection—[chemical messengers]() passed between individuals or left in the environment, or [elaborate dances](). 
 
 In the absence of chemical stimuli to , we must rely on technologies of our own devising. One promising 
