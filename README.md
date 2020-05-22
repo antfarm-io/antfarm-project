@@ -33,7 +33,7 @@ When the individual behaviors of social insects become so tightly synchronized t
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/82508408-f0ae8400-9ad2-11ea-8736-398a52694776.jpg">
 </p>
 
-*Photo by [Alexander Wild](https://www.newscientist.com/article/mg23130900-500-get-inside-the-collective-mind-of-a-genius-superorganism/)*
+> *Photo by [Alexander Wild](https://www.newscientist.com/article/mg23130900-500-get-inside-the-collective-mind-of-a-genius-superorganism/)*
 
 The social insects accomplish this feat through blind mechanisms evolved through natural selection—[chemical messengers]() passed between individuals or left in the environment, or [elaborate dances](). 
 
