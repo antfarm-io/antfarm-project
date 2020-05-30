@@ -82,16 +82,16 @@ The colony is made up of 4 castes:
 <img align="left" src="" width="25%" height="25%"> Any applicant who has not yet been selected to be a member of a cohort is stored in our system as a latent applicant. These users are given a temporary profile on the platform which gives them access to a limited range of opportunities across the platform. 
 
 *Soldier: a member of a cohort*
-<img align="left" width="15%" height="15%" src="https://user-images.githubusercontent.com/65630335/83340019-7388c900-a2a1-11ea-9805-730f05123d03.JPG"> 
+<img align="left" width="2.5%" height="2.5%" src="https://user-images.githubusercontent.com/65630335/83340019-7388c900-a2a1-11ea-9805-730f05123d03.JPG"> 
 
 *Worker: a *
-<img align="left" width="15%" height="15%" src="https://user-images.githubusercontent.com/65630335/83339979-2ad11000-a2a1-11ea-975b-6d68e533ba70.JPG"> 
+<img align="left" width="2.5%" height="2.5%" src="https://user-images.githubusercontent.com/65630335/83339979-2ad11000-a2a1-11ea-975b-6d68e533ba70.JPG"> 
 
 *Winged male: *
-<img align="left" width="15%" height="15%" src="https://user-images.githubusercontent.com/65630335/83340004-5227dd00-a2a1-11ea-85f9-48d9d1f93ce8.JPG"> 
+<img align="left" width="2.5%" height="2.5%" src="https://user-images.githubusercontent.com/65630335/83340004-5227dd00-a2a1-11ea-85f9-48d9d1f93ce8.JPG"> 
 
 *Queen: *
-<img align="left" width="15%" height="15%" src="https://user-images.githubusercontent.com/65630335/83340021-78e61380-a2a1-11ea-900d-4247a00334af.JPG"> 
+<img align="left" width="2.5%" height="2.5%" src="https://user-images.githubusercontent.com/65630335/83340021-78e61380-a2a1-11ea-900d-4247a00334af.JPG"> 
 
 4. Task sets
 Task sets are the discrete tasks 
