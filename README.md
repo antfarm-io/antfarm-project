@@ -73,16 +73,16 @@ The colony is made up of 4 castes:
 4. Queens
 
 <p align="center">
-<img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/83339885-09bbef80-a2a0-11ea-8b73-00b0f4d68d08.jpg">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/65630335/83339885-09bbef80-a2a0-11ea-8b73-00b0f4d68d08.jpg">
 </p>
 
 > *Diagram from the [University of Minnesota](https://extension.umn.edu/insects-infest-homes/ants#color%2C-size-and-body-parts-41460).*
 
 *Larvae: the latent applicant*
-<img align="left" width="25%" height="25%" src=""> Any applicant who has not yet been selected to be a member of a cohort is stored in our system as a latent applicant. These users are given a temporary profile on the platform which gives them access to a limited range of opportunities across the platform. 
+<img align="left" src="" width="25%" height="25%"> Any applicant who has not yet been selected to be a member of a cohort is stored in our system as a latent applicant. These users are given a temporary profile on the platform which gives them access to a limited range of opportunities across the platform. 
 
 *Soldier: a member of a cohort*
-<img align="left" width="25%" height="25%" src="https://user-images.githubusercontent.com/65630335/83340019-7388c900-a2a1-11ea-9805-730f05123d03.JPG"> 
+<img align="left" src="https://user-images.githubusercontent.com/65630335/83340019-7388c900-a2a1-11ea-9805-730f05123d03.JPG" width="25%" height="25%"> 
 
 *Worker: a *
 <img align="left" width="25%" height="25%" src="https://user-images.githubusercontent.com/65630335/83339979-2ad11000-a2a1-11ea-975b-6d68e533ba70.JPG"> 
