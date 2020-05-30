@@ -80,23 +80,24 @@ The colony is made up of 4 castes:
 <br />
 *Larvae: the latent applicant*
 <br />
-<img align="left" width="2.5%" height="2.5%" src="https://user-images.githubusercontent.com/65630335/83340265-f6128800-a2a3-11ea-99af-c9a0ca806c65.jpg"> Any applicant who has not yet been selected to be a member of a cohort is stored in our system as a latent applicant. These users are given a temporary profile on the platform which gives them access to a limited range of opportunities across the platform. 
+<img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83340265-f6128800-a2a3-11ea-99af-c9a0ca806c65.jpg"> 
+Any applicant who has not yet been selected to be a member of a cohort is stored in our system as a latent applicant. These users are given a temporary profile on the platform which gives them access to a limited range of opportunities across the platform. 
 <br />
 <br />
 *Soldier: a member of a cohort*
-<img align="left" width="2.5%" height="2.5%" src="https://user-images.githubusercontent.com/65630335/83340019-7388c900-a2a1-11ea-9805-730f05123d03.JPG"> 
+<img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83340019-7388c900-a2a1-11ea-9805-730f05123d03.JPG"> 
 <br />
 <br />
 *Worker: a *
-<img align="left" width="2.5%" height="2.5%" src="https://user-images.githubusercontent.com/65630335/83339979-2ad11000-a2a1-11ea-975b-6d68e533ba70.JPG"> 
+<img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83339979-2ad11000-a2a1-11ea-975b-6d68e533ba70.JPG"> 
 <br />
 <br />
 *Winged male: *
-<img align="left" width="2.5%" height="2.5%" src="https://user-images.githubusercontent.com/65630335/83340004-5227dd00-a2a1-11ea-85f9-48d9d1f93ce8.JPG"> 
+<img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83340004-5227dd00-a2a1-11ea-85f9-48d9d1f93ce8.JPG"> 
 <br />
 <br />
 *Queen: *
-<img align="left" width="2.5%" height="2.5%" src="https://user-images.githubusercontent.com/65630335/83340021-78e61380-a2a1-11ea-900d-4247a00334af.JPG"> 
+<img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83340021-78e61380-a2a1-11ea-900d-4247a00334af.JPG"> 
 <br />
 <br />
 4. Task sets
