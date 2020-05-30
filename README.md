@@ -117,6 +117,6 @@ His primary research interests focus on how online crowdsourcing platforms may b
 
 
 
-The Antfarm Project is the flagship project of [GoodLabs](github.com/jaxgoodlabs/), a hub for commons-based peer production1 providing creators and contributors with a community, personalized online workspaces, and data-driven insights to help them better understand and improve upon their operations. for more information, visit [link]().
+The Antfarm Project is the flagship project of [GoodLabs](github.com/jaxgoodlabs/), a hub for commons-based peer production providing creators and contributors with a community, personalized online workspaces, and data-driven insights to help them better understand and improve upon their operations. for more information, visit [link]().
 
 For more information on the thinking that inspired this project, check out our [White Paper]().
