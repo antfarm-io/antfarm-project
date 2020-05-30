@@ -60,18 +60,46 @@ If any of these objectives fail to be met, the colony collapses and the experime
 
 ## Methodology
 
-*Project elements*
+*Project components*
 
-1. Antfarm.io - The main platform through which we conduct our investigation. Also referred to as the colony. 
-2. Antfarm-project repository - This repository represents the colony itself, which is cooperatively maintained by all participants through the submission of pull requests. This project consists primarily of governance tools and documentation. 
+1. Antfarm.io - The main platform through which we conduct our investigation. 
+2. Antfarm-project repository - This repository represents the colony itself, which is cooperatively maintained by all participants through the submission of pull requests. This project consists primarily of governance tools, project resources, work products, and documentation.
 - 
 3. Colony
-*Latent applicant*
-Any applicant who has not yet been selected to be a member of a cohort is stored in our system as a latent applicant. These users are given a temporary profile on the platform which gives them access to a limited range of opportunities across the platform. 
+The colony is made up of 4 castes:
+1. Larvae
+2. Workers
+3. Soldiers
+4. Queens
 
-*Cohorts*
+<p align="center">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/83339885-09bbef80-a2a0-11ea-8b73-00b0f4d68d08.jpg">
+</p>
+
+> *Diagram from the [University of Minnesota](https://extension.umn.edu/insects-infest-homes/ants#color%2C-size-and-body-parts-41460).*
+
+*Larvae: the latent applicant*
+<img align="left" width="25%" height="25%" src=""> Any applicant who has not yet been selected to be a member of a cohort is stored in our system as a latent applicant. These users are given a temporary profile on the platform which gives them access to a limited range of opportunities across the platform. 
+
+*Soldier: a member of a cohort*
+<img align="left" width="25%" height="25%" src="https://user-images.githubusercontent.com/65630335/83340019-7388c900-a2a1-11ea-9805-730f05123d03.JPG"> 
+
+*Worker: a *
+<img align="left" width="25%" height="25%" src="https://user-images.githubusercontent.com/65630335/83339979-2ad11000-a2a1-11ea-975b-6d68e533ba70.JPG"> 
+
+*Winged male: *
+<img align="left" width="25%" height="25%" src="https://user-images.githubusercontent.com/65630335/83340004-5227dd00-a2a1-11ea-85f9-48d9d1f93ce8.JPG"> 
+
+*Queen: *
+<img align="left" width="25%" height="25%" src="https://user-images.githubusercontent.com/65630335/83340021-78e61380-a2a1-11ea-900d-4247a00334af.JPG"> 
 
 [diagram of membership model, including organizational structures and roles.]
+
+4. Task sets
+Task sets are the discrete tasks 
+
+5. 
+
 
 ## Project phases
 The project is designed to progress through two main stages: a research phase and a project phase.  
@@ -125,12 +153,11 @@ The project manager is responsible for breaking down the task set into smaller t
 2. 
 
 ## Deliverables
-
 Each work cycle (or sprint) should yield the following minimum outputs:
 
-1. Documentation of the group's activities, including . (A template will be provided by the cohort's staff advisor)
-2. A retrospective 
-3. 
+1. Documentation of the group's activities, including assigned roles, datasets and other resources used, and methods and analyses employed. (A template will be provided by the cohort's staff advisor)
+2. A [retrospective](https://searchsoftwarequality.techtarget.com/definition/Agile-retrospective), in which the team reflects on what happened in the iteration and identifies actions for improvement going forward.
+3. Products satisfying the requirements of the task set.
 
 ## Related research
 This investigation builds on previous studies into the social production potential of digital commons [bibliography]() and attempts to successfully utilize . 
