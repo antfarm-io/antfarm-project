@@ -11,7 +11,7 @@ We leverage the vast resources and infrastructure of GitHub to create a virtual 
 
 Rather than being an idle experiment, we aim to acquire this understanding through the practice of social production itself. Participants operate under the mandate of creating a [sustainable society](https://www.britannica.com/science/sustainability#ref1225913)—i.e., one "in which the environmental and economic actions taken by present persons do not diminish the opportunities of future persons to enjoy similar levels of wealth, utility, or welfare." This means taking on some of the world's biggest challenges, including climate change, systemic injustice and inequity, and extreme poverty. 
 
-In pursuing this goal, we aim to build a community that functions as more than the sum of its parts and can provide a model of what the society of the future might become. 
+In pursuing this goal, we aim to build a community that functions as more than the sum of its parts and can serve as a model of what the society of the future might become. 
 
 **Some useful definitions**
 
