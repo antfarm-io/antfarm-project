@@ -77,9 +77,9 @@ The colony is made up of 4 castes:
 </p>
 
 > *Diagram from the [University of Minnesota](https://extension.umn.edu/insects-infest-homes/ants#color%2C-size-and-body-parts-41460).*
-
+<br />
 *Larvae: the latent applicant*
-<img align="left" src="" width="25%" height="25%"> Any applicant who has not yet been selected to be a member of a cohort is stored in our system as a latent applicant. These users are given a temporary profile on the platform which gives them access to a limited range of opportunities across the platform. 
+<img align="left" width="2.5%" height="2.5%" src="https://user-images.githubusercontent.com/65630335/83340265-f6128800-a2a3-11ea-99af-c9a0ca806c65.jpg"> Any applicant who has not yet been selected to be a member of a cohort is stored in our system as a latent applicant. These users are given a temporary profile on the platform which gives them access to a limited range of opportunities across the platform. 
 
 *Soldier: a member of a cohort*
 <img align="left" width="2.5%" height="2.5%" src="https://user-images.githubusercontent.com/65630335/83340019-7388c900-a2a1-11ea-9805-730f05123d03.JPG"> 
@@ -92,7 +92,7 @@ The colony is made up of 4 castes:
 
 *Queen: *
 <img align="left" width="2.5%" height="2.5%" src="https://user-images.githubusercontent.com/65630335/83340021-78e61380-a2a1-11ea-900d-4247a00334af.JPG"> 
-
+<br />
 4. Task sets
 Task sets are the discrete tasks 
 
