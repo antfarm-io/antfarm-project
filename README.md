@@ -93,8 +93,8 @@ Any applicant who has not yet been selected to be a member of a cohort is stored
 
 *Winged male: *
 <img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83340004-5227dd00-a2a1-11ea-85f9-48d9d1f93ce8.JPG"> 
-
-
+<br>
+<br>
 *Queen: *
 <img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83340021-78e61380-a2a1-11ea-900d-4247a00334af.JPG"> 
 
