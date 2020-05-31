@@ -90,6 +90,6 @@ Prior to enrolling at CMU, he worked for approximately eight years in a wide var
 
 His primary research interests focus on how online crowdsourcing platforms may be used to support collective action-style solutions to high-complexity problems like climate change.<br />
 
-TAntfarm-io is the flagship project of [GoodLabs](github.com/jaxgoodlabs/), a hub for commons-based peer production providing creators and contributors with a community, personalized online workspaces, and data-driven insights to help them better understand and improve upon their operations. for more information, visit [link]().<br />
+Antfarm-io is the flagship project of [GoodLabs](github.com/jaxgoodlabs/), a hub for commons-based peer production providing creators and contributors with a community, personalized online workspaces, and data-driven insights to help them better understand and improve upon their operations. for more information, visit [link]().<br />
 
 For more information on the thinking that inspired this project, check out our [White Paper]().
