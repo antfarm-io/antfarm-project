@@ -64,14 +64,14 @@ If any of these objectives fail to be met, the colony collapses and the experime
 
 1. Antfarm.io - The main platform through which we conduct our investigation. 
 2. Antfarm-project repository - This repository represents the colony itself, which is cooperatively maintained by all participants through the submission of pull requests. This project consists primarily of governance tools, project resources, work products, and documentation.
-- 
 3. Colony
+
 The colony is made up of 5 castes:
-1. Larvae
-2. Workers
-3. Soldiers
-4. Winged males
-4. Queens
+- Larvae
+- Workers
+- Soldiers
+- Winged males
+- Queens
 
 <p align="center">
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/65630335/83339885-09bbef80-a2a0-11ea-8b73-00b0f4d68d08.jpg">
