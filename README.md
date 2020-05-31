@@ -89,8 +89,7 @@ Patrick Campbell holds a B.S. in Biology from Palm Beach Atlantic University, an
 Prior to enrolling at CMU, he worked for approximately eight years in a wide variety of positions in the areas of environmental science and conservation. His early career was devoted primarily to addressing water quality issues in his home state of Florida, where he worked as an environmental consultant in support of several projects managed by the local Water Management Districts. During this time, he gained a lot of valuable experience both in water quality and other field sampling techniques as well as in the broader policy environment surrounding the local management of natural resources.<br />
 <br />
 His primary research interests focus on how online crowdsourcing platforms may be used to support collective action-style solutions to high-complexity problems like climate change.
-
-
+<br />
 The Antfarm Project is the flagship project of [GoodLabs](github.com/jaxgoodlabs/), a hub for commons-based peer production providing creators and contributors with a community, personalized online workspaces, and data-driven insights to help them better understand and improve upon their operations. for more information, visit [link]().
 
 For more information on the thinking that inspired this project, check out our [White Paper]().
