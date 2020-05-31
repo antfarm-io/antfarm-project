@@ -82,31 +82,31 @@ The colony is made up of 5 castes:
 *Larva*
 
 <img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83340265-f6128800-a2a3-11ea-99af-c9a0ca806c65.jpg">
-Any applicant who has not yet been selected to be a member of a cohort is stored in our system as a larva. These users are given a temporary profile on the platform which gives them access to a limited range of opportunities across the platform.  
+Any applicant who has not yet been selected to be a member of a cohort is stored in our system as a larva. These users are given a temporary profile on the platform which gives them access to a limited range of opportunities across the platform.\
 <br />
 
 *Soldier*
 
 <img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83340019-7388c900-a2a1-11ea-9805-730f05123d03.JPG">
-A soldier is a member of a cohort.  
+A soldier is a member of a cohort.\
 <br />
 
 *Worker*
 
 <img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83339979-2ad11000-a2a1-11ea-975b-6d68e533ba70.JPG">
-A user who has served as a member of a cohort, but is not currently serving in any active role is registered as a Worker.  
+A user who has served as a member of a cohort, but is not currently serving in any active role is registered as a Worker.\
 <br />
 
 *Winged male*
 
 <img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83340004-5227dd00-a2a1-11ea-85f9-48d9d1f93ce8.JPG">
-Winged males are users who have branched the project and created a new colony. The main service of this caste is to innovate on the original antfarm-io model and share any insights obtained with the master branch.  
+Winged males are users who have branched the project and created a new colony. The main service of this caste is to innovate on the original antfarm-io model and share any insights obtained with the master branch.\
 <br />
 
 *Queen*
 
 <img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83340021-78e61380-a2a1-11ea-900d-4247a00334af.JPG">
-Queens are users that ...  
+Queens are users that ...\
 <br />
 
 4. Task sets
