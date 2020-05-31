@@ -26,15 +26,11 @@ The social insects accomplish this feat through blind mechanisms evolved through
 
 In the absence of chemical stimuli to guide and coordinate our collective activity, we must rely on technologies of our own devising. One promising approach is to employ nudges, positive reinforcement and indirect suggestions that influence the behavior and decision making of groups or individuals without diminishing their capacity for free choice.[Nudge Theory. Wikipedia](https://en.wikipedia.org/wiki/Nudge_theory). Such interventions can be deployed either as policies (choice architecture) or as features of the physical environment, as when we paint a room in a calming color to promote faster recovery from a or manipulate the placement or a .
 
-<p align="center">
-<img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/83362410-020f5000-a35f-11ea-97de-18d7aa19e767.jpg">
-</p>
-
 > "Thaler gives us an alternative to formal control systems for humans based on rules, laws, behavioral/operant conditioning, "shoulds, oughts, musts". Humans ignore or rebel against the rules, and deny consequences for short term gains.
 >
 > Thaler's "Nudge" is the alternative, assuming people will act in their self-interest without depending or using rationality or reason. Thaler shows in his reserach and presents in his book how to shape choice using the newly discovered laws of predictable irrationality, or choice shaping. [Amazon consumer reviews for *Nudge*.](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness-ebook/dp/B00A5DCALY)
 
-The theory works because of how humans evolved. Many of the undesirable consequences of our behavior in are a consequence of our pleistocene brains struggling to adapt to a 21st-century globalized, technologized environment.
+The theory works because of how humans evolved. Many of the undesirable consequences of our behavior in are [just a byproduct of our pleistocene brains trying to navigate a foreign environment - like moths drawn to a flame] a consequence of our pleistocene brains struggling to adapt to a 21st-century globalized, technologized environment.
 
 ## Goals and objectives
 
