@@ -24,21 +24,20 @@ When the individual behaviors of social insects become so tightly synchronized t
 
 The social insects accomplish this feat through blind mechanisms evolved through natural selection—[chemical messengers]() passed between individuals or left in the environment, or [elaborate dances](). 
 
-In the absence of chemical stimuli to , we must rely on technologies of our own devising. One promising 
+In the absence of chemical stimuli to guide and coordinate our collective activity, we must rely on technologies of our own devising. One promising approach is to employ nudges, positive reinforcement and indirect suggestions that influence the behavior and decision making of groups or individuals without diminishing their capacity for free choice.[Nudge Theory. Wikipedia](https://en.wikipedia.org/wiki/Nudge_theory). Such interventions can be deployed either as policies (choice architecture) or as features of the physical environment, as when we paint a room in a calming color to promote faster recovery from a or manipulate the placement or a .
+
+<p align="center">
+<img width="100%" height="100%" src="">
+</p>
+
+> "Thaler gives us an alternative to formal control systems for humans based on rules, laws, behavioral/operant conditioning, "shoulds, oughts, musts". Humans ignore or rebel against the rules, and deny consequences for short term gains.
+>
+> Thaler's "Nudge" is the alternative, assuming people will act in their self-interest without depending or using rationality or reason. Thaler shows in his reserach and presents in his book how to shape choice using the newly discovered laws of predictable irrationality, or choice shaping. [Amazon consumer reviews for *Nudge*.](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness-ebook/dp/B00A5DCALY)
+
+The theory works because of how humans evolved. Many of the undesirable consequences of our behavior in are a consequence of our pleistocene brains struggling to adapt to a 21st-century globalized, technologized environment.
 
 ## Goals and objectives
-The goal of the exercise is to achieve a sustainable colony. A sustainable colony is one "in which the environmental and economic actions taken by present persons do not diminish the opportunities of future persons to enjoy similar levels of wealth, utility, or welfare" ["Sustainability." *Britannica.*](https://www.britannica.com/science/sustainability#ref1225913).
 
-Within the context of this project, ...
-
-Sustainability consists of the following component objectives:
-1. Sufficiency of essential resources, including:
-- Funds
-- Contributors (stable population)
-- 
-2. 
-
-If any of these objectives fail to be met, the colony collapses and the experiment is concluded. After a collapse, the experiment can be reset with a new cohort of participants. 
 
 ## Project phases
 The project is designed to progress through two main stages: a research phase and a project phase.  
