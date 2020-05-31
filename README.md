@@ -47,7 +47,9 @@ In the absence of chemical stimuli to , we must rely on technologies of our own 
 > "A collective action problem or social dilemma is a situation in which all individuals would be better off cooperating but fail to do so because of conflicting interests between individuals that discourage joint action. Problems arise when too many group members choose to pursue individual profit and immediate satisfaction rather than behave in the group's best long-term interests. \[...] The collective action problem can be understood through the analysis of game theory and the free-rider problem, which results from the provision of public goods. Additionally, the collective problem can be applied to numerous public policy concerns that countries across the world currently face." [(Collective Action Problem. Wikipedia.)](https://en.wikipedia.org/wiki/Collective_action_problem)
 
 ## Goals and objectives
-The goal of the exercise is to achieve a sustainable colony. Sustainability is meant to serve as a sort of value-neutral framework for guiding the activities of our users without imposing too narrow restrictions on the precise means (values, beliefs, policies) they employ to get there. 
+The goal of the exercise is to achieve a sustainable colony. A sustainable colony is one "in which the environmental and economic actions taken by present persons do not diminish the opportunities of future persons to enjoy similar levels of wealth, utility, or welfare" ["Sustainability." *Britannica.*](https://www.britannica.com/science/sustainability#ref1225913).
+
+Within the context of this project, 
 
 Sustainability consists of the following component objectives:
 1. Sufficiency of essential resources, including:
@@ -60,62 +62,16 @@ If any of these objectives fail to be met, the colony collapses and the experime
 
 ## Methodology
 
-*Project components*
+**Project components**
 
 1. Antfarm.io - The main platform through which we conduct our investigation. 
 2. Antfarm-project repository - This repository represents the colony itself, which is cooperatively maintained by all participants through the submission of pull requests. This project consists primarily of governance tools, project resources, work products, and documentation.
-3. Colony
-
-The colony is made up of 5 castes:
-- Larvae
-- Workers
-- Soldiers
-- Winged males
-- Queens
-
-<p align="center">
-<img width="80%" height="80%" src="https://user-images.githubusercontent.com/65630335/83339885-09bbef80-a2a0-11ea-8b73-00b0f4d68d08.jpg">
-</p>
-
-> *Diagram from the [University of Minnesota](https://extension.umn.edu/insects-infest-homes/ants#color%2C-size-and-body-parts-41460). From left to right: Queen, winged male, soldier, worker.*
-
-*Larva*
-
-<img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83340265-f6128800-a2a3-11ea-99af-c9a0ca806c65.jpg">
-Any applicant who has not yet been selected to be a member of a cohort is stored in our system as a larva. These users are given a temporary profile on the platform which gives them access to a limited range of opportunities across the platform.\
-<br />
-
-*Soldier*
-
-<img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83340019-7388c900-a2a1-11ea-9805-730f05123d03.JPG">
-A soldier is a member of a cohort.\
-<br />
-
-*Worker*
-
-<img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83339979-2ad11000-a2a1-11ea-975b-6d68e533ba70.JPG">
-A user who has served as a member of a cohort, but is not currently serving in any active role is registered as a Worker.\
-<br />
-
-*Winged male*
-
-<img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83340004-5227dd00-a2a1-11ea-85f9-48d9d1f93ce8.JPG">
-Winged males are users who have branched the project and created a new colony. The main service of this caste is to innovate on the original antfarm-io model and share any insights obtained with the master branch.\
-<br />
-
-*Queen*
-
-<img align="left" width="4%" height="4%" src="https://user-images.githubusercontent.com/65630335/83340021-78e61380-a2a1-11ea-900d-4247a00334af.JPG">
-Queens are users that ...\
-<br />
-
-4. Task sets
-Task sets are the discrete tasks 
-
+3. Cohorts
+4. Task sets - The discrete tasks ...
 5. 
 
+**Project phases**
 
-## Project phases
 The project is designed to progress through two main stages: a research phase and a project phase.  
 
 *Research Phase*
