@@ -79,7 +79,7 @@ These projects and their associated project files serve as a living laboratory f
 
 ## About the Investigators
 <img align="left" src="https://user-images.githubusercontent.com/32546509/77238966-de37cd00-6bab-11ea-9b9b-e49783f8300a.jpg">
-Patrick Campbell holds a B.S. in Biology from Palm Beach Atlantic University, an M.A. in Philosophy from Northern Illinois University, and a M.S. in Public Policy and Mangement from Carnegie Mellon University. <br />
+Patrick Campbell holds a B.S. in Biology from Palm Beach Atlantic University, an M.A. in Philosophy from Northern Illinois University, and a M.S. in Public Policy and Mangement from Carnegie Mellon University.<br />
 
 Prior to enrolling at CMU, he worked for approximately eight years in a wide variety of positions in the areas of environmental science and conservation. His early career was devoted primarily to addressing water quality issues in his home state of Florida, where he worked as an environmental consultant in support of several projects managed by the local Water Management Districts. During this time, he gained a lot of valuable experience both in water quality and other field sampling techniques as well as in the broader policy environment surrounding the local management of natural resources.<br />
 
