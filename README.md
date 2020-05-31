@@ -27,7 +27,7 @@ The social insects accomplish this feat through blind mechanisms evolved through
 In the absence of chemical stimuli to guide and coordinate our collective activity, we must rely on technologies of our own devising. One promising approach is to employ nudges, positive reinforcement and indirect suggestions that influence the behavior and decision making of groups or individuals without diminishing their capacity for free choice.[Nudge Theory. Wikipedia](https://en.wikipedia.org/wiki/Nudge_theory). Such interventions can be deployed either as policies (choice architecture) or as features of the physical environment, as when we paint a room in a calming color to promote faster recovery from a or manipulate the placement or a .
 
 <p align="center">
-<img width="100%" height="100%" src="">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/83362410-020f5000-a35f-11ea-97de-18d7aa19e767.jpg">
 </p>
 
 > "Thaler gives us an alternative to formal control systems for humans based on rules, laws, behavioral/operant conditioning, "shoulds, oughts, musts". Humans ignore or rebel against the rules, and deny consequences for short term gains.
