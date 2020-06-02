@@ -51,7 +51,7 @@ To that end, we've defined the following goals and targets.
 
 This goal is achieved when the community has established the routine practices necessary to keep the platform stable over the long-term. This requires a sufficient inflow of all the resources needed to maintain the essential functions of the platform, including funds, labor, knowledge, tools and technologies, etc.
 
-Goal 1 encompasses 3 specific targets.
+Goal 1 encompasses 3 specific targets. 
 
 *1. Form a constitution*
 
@@ -60,9 +60,14 @@ The constitution
 *2. Identify needs and *
 
 
+*3. Establish foundational institutions for the provision of basic services*
+
+
 **Goal 2: Production Phase**
 
-*1. Establish foundational institutions for the provision of basic services*
+
+
+*1. *
 
 
 
@@ -111,6 +116,10 @@ These projects and their associated project files serve as a living laboratory f
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/65630335/82494300-5b51c680-9ab7-11ea-86a2-28be4d14c267.JPG">
 </p>
+
+7. 
+
+Targets are decomposed into 1 or more modularized task sets to be distributed among members of the cohort. 
 
 ## About the Investigators
 <img align="left" src="https://user-images.githubusercontent.com/32546509/77238966-de37cd00-6bab-11ea-9b9b-e49783f8300a.jpg">
