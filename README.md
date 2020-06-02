@@ -38,9 +38,23 @@ This vision is broader than simply moving everyone into biophiphilic cities. Gre
 
 While humans can't hope to solve their collective action problems with pheremones, we can make specific changes to our environment to help us to mitigate the most damaging effects of .
 
-> Watch: [Man Builds A $230,000 House In 700-Year-Old Cave](https://www.videogram.com/comic/cdae2422-5893-43a0-86e9-f7492bfa67d9)
+> Watch: [Man Builds A $230,000 House In 700-Year-Old Cave](https://www.videogram.com/comic/cdae2422-5893-43a0-86e9-f7492bfa67d9).
 
 ## Goals and objectives
+The purpose of this project is to gain a better understanding of the social production practices of human beings by [creating, in effect, a glass house through which to view social producers in action.] providing an environment in which human beings can engage in the actual practice of social production - in effect, to put social production under a microscope. 
+
+If we can understand the factors that affect the outcomes of our social production practices, perhaps we can become more effective at steering those practices in more constructive directions. Rather than giving rise to monsters, we can create new emergent phenomena that fight back the monsters we have already let loose. 
+
+<p align="center">
+<img width="90%" height="90%" src="https://user-images.githubusercontent.com/65630335/83559590-d0bf8d00-a4e2-11ea-9c8d-074a7f310b37.png">
+</p>
+
+> *A Jaeger fights a Kaiju in the film [Pacific Rim]().*
+
+To that end, we've defined the following goals and objectives.
+
+1. 
+
 I just want a bunch of networked entities (individual people, informal groups, organizations and companies) working under the same umbrella, i.e., on the same broad platform, and expanding and improving the infrastructure that they commonly rely on so that they can operate at a similar - or even higher - capacity than the capitalist market economy they’re trying to replace. I want to consolidate these resources, remodel them as a single unified system, build that system, and put them back to work. So I really should be asking myself more often than I do - what’s the shortest path to achieving that goal? 
 
 ## Project phases
