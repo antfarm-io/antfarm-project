@@ -32,7 +32,7 @@ One promising approach is to employ nudges, positive reinforcement and indirect 
 
 The theory works because of how humans evolved. Many of the undesirable consequences of our behavior in are [just a byproduct of our pleistocene brains trying to navigate a foreign environment - like moths drawn to a flame] a consequence of our pleistocene brains struggling to adapt to a 21st-century globalized, technologized environment. We struggle to grasp the meaning of tragedies affecting millions, so  fail to feel the appropriate outrage 
 
-By leveraging nudge theory, we can start patching one by one those features of our modern environment that trip us up, helping us behave and act in a more [ecologically rational](https://www.sciencedirect.com/topics/computer-science/ecological-rationality#:~:text=The%20term%20'ecological%20rationality'%20refers,to%20succeed%20in%20that%20environment) manner.
+By leveraging nudge theory, we can start patching one by one those features of our modern environment that trip us up, helping us behave in more [ecologically rational](https://www.sciencedirect.com/topics/computer-science/ecological-rationality#:~:text=The%20term%20'ecological%20rationality'%20refers,to%20succeed%20in%20that%20environment) ways.
 
 This vision is broader than simply moving everyone into biophiphilic cities. Greening our environment has been shown to reduce anxiety and increase productivity, but it's hardly a complete solution. The concept of a smart environment 
 
