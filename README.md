@@ -22,17 +22,23 @@ When the individual behaviors of social insects become so tightly synchronized t
 
 > *Photo by [Alexander Wild](https://www.newscientist.com/article/mg23130900-500-get-inside-the-collective-mind-of-a-genius-superorganism/).*
 
-The social insects accomplish this feat through blind mechanisms evolved through natural selection—[chemical messengers]() passed between individuals or left in the environment, or [elaborate dances](). In the absence of chemical stimuli to guide and coordinate our collective activity, we humans must rely on technologies of our own devising. 
+The social insects accomplish this feat through blind mechanisms evolved through natural selection—[chemical messengers]() passed between individuals or left in the environment, or [elaborate dances](). Ants, for instance, use [(Wikiepedia. )](. In the absence of chemical stimuli to guide and coordinate our collective activity, we humans must rely on technologies of our own devising.
 
-One promising approach is to employ nudges, positive reinforcement and indirect suggestions that influence the behavior and decision making of groups or individuals without diminishing their capacity for free choice.[Nudge Theory. Wikipedia](https://en.wikipedia.org/wiki/Nudge_theory). Such interventions can be deployed either as policies (choice architecture) or as features of the physical environment, as when we paint a room in a calming color to promote faster recovery from a or manipulate the placement or a . 
-
-The theory works because of how humans evolved. Many of the undesirable consequences of our behavior in are [just a byproduct of our pleistocene brains trying to navigate a foreign environment - like moths drawn to a flame] a consequence of our pleistocene brains struggling to adapt to a 21st-century globalized, technologized environment. By leveraging nudge theory, we can 
+One promising approach is to employ nudges, positive reinforcement and indirect suggestions that influence the behavior and decision making of groups or individuals without diminishing their capacity for free choice.[Nudge Theory. Wikipedia](https://en.wikipedia.org/wiki/Nudge_theory). Such interventions can be deployed either as policies (via a prcess known as ["choice architecture"](https://en.wikipedia.org/wiki/Choice_architecture#:~:text=Choice%20architecture%20is%20the%20design,presentation%20on%20consumer%20decision%2Dmaking.)) or as features of the physical environment, as when we paint a room in a calming color to promote faster recovery from a or manipulate the placement or a product to catch our eye. 
 
 > "Thaler gives us an alternative to formal control systems for humans based on rules, laws, behavioral/operant conditioning, "shoulds, oughts, musts". Humans ignore or rebel against the rules, and deny consequences for short term gains.
 >
 > Thaler's "Nudge" is the alternative, assuming people will act in their self-interest without depending or using rationality or reason. Thaler shows in his reserach and presents in his book how to shape choice using the newly discovered laws of predictable irrationality, or choice shaping. [Amazon consumer reviews for *Nudge*.](https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness-ebook/dp/B00A5DCALY)
 
+The theory works because of how humans evolved. Many of the undesirable consequences of our behavior in are [just a byproduct of our pleistocene brains trying to navigate a foreign environment - like moths drawn to a flame] a consequence of our pleistocene brains struggling to adapt to a 21st-century globalized, technologized environment. We struggle to grasp the meaning of tragedies affecting millions, so  fail to feel the appropriate outrage 
 
+By leveraging nudge theory, we can start patching one by one those features of our modern environment that trip us up, helping us behave and act in a more [ecologically rational](https://www.sciencedirect.com/topics/computer-science/ecological-rationality#:~:text=The%20term%20'ecological%20rationality'%20refers,to%20succeed%20in%20that%20environment) manner.
+
+This vision is broader than simply moving everyone into biophiphilic cities. Greening our environment has been shown to reduce anxiety and increase productivity, but it's hardly a complete solution. The concept of a smart environment 
+
+While humans can't hope to solve their collective action problems with pheremones, we can make specific changes to our environment to help us to mitigate the most damaging effects of .
+
+[Image of a smart environment and ancestral environment with equal sign, like setting it up to look like home, or covering a stressor with a plant, or large natural landscapes painted in urban environments, or biophilic cities]
 
 ## Goals and objectives
 
