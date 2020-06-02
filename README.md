@@ -38,10 +38,10 @@ This vision is broader than simply moving everyone into biophiphilic cities. Gre
 
 While humans can't hope to solve their collective action problems with pheremones, we can make specific changes to our environment to help us to mitigate the most damaging effects of .
 
-[Image of a smart environment and ancestral environment with equal sign, like setting it up to look like home, or covering a stressor with a plant, or large natural landscapes painted in urban environments, or biophilic cities]
+> Watch: [Man Builds A $230,000 House In 700-Year-Old Cave](https://www.videogram.com/comic/cdae2422-5893-43a0-86e9-f7492bfa67d9)
 
 ## Goals and objectives
-
+I just want a bunch of networked entities (individual people, informal groups, organizations and companies) working under the same umbrella, i.e., on the same broad platform, and expanding and improving the infrastructure that they commonly rely on so that they can operate at a similar - or even higher - capacity than the capitalist market economy they’re trying to replace. I want to consolidate these resources, remodel them as a single unified system, build that system, and put them back to work. So I really should be asking myself more often than I do - what’s the shortest path to achieving that goal? 
 
 ## Project phases
 The project is designed to progress through two main stages: a research phase and a project phase.  
